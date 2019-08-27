@@ -5,6 +5,7 @@ const Home = () => (
   <Layout>
     <h1>Cookie-based authentication example</h1>
     <h2>hello there</h2>
+    <h3>version 1 change will not be seen on master</h3>
 
     <p>Steps to test the functionality:</p>
 

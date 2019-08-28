@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 const sayHelloWorld = () => {
   return (
     <Layout>
-      <h1>what are you doing here?</h1>
+      <h1>what are you doing here? hello</h1>
     </Layout>
   )
 }
